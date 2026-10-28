@@ -1,0 +1,13 @@
+.bg_image{background-image:url(/asset/bg-image-hero.webp); background-size: cover; 
+    height: 500px;
+}
+.white{color: aliceblue;}
+bg-image2{background-image:url(/asset/bg-image-hero.webp); 
+background-size: cover;}
+
+.bouton-noir{
+    background-color: black;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 12px;
+}
